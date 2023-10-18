@@ -1,0 +1,4 @@
+export const SUMMARY_CARD_DIMENTION ={
+   WIDTH: 80,
+   HEIGHT: 40,
+}
