@@ -4,7 +4,7 @@ import EducationCard from "./EducationCard";
 
 function AboutMe() {
   return (
-    <div className="h-full w-full shadow-xl">
+    <div className="h-full w-full text-white hover:shadow-lg hover:shadow-darkred border-b-darkred mb-4">
       <div className="flex gap-5 p-7 justify-start">
         <div className="basis-2/5">
         <img src={homeImg} alt="about me" className="w-fit h-[37rem]" />

@@ -17,7 +17,7 @@ const SkillCard = () => {
 function TechnicalSkills() {
   const { technicalSkills } = portfolio;
   return (
-    <div className="italic h-full w-full p-7 shadow-xl">
+    <div className="italic h-full w-full p-7 hover:shadow-lg hover:shadow-darkred mt-2 text-white">
       <h2 className="text-4xl font-sans font-bold tracking-widest">
         My Technical Skills...
       </h2>

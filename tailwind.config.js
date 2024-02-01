@@ -14,11 +14,12 @@ module.exports = {
       'gray-light': '#d3dce6',
       'light-purple':'#b297ea5e',
       'gray-600':'#1F2937',
-      'black':'#000000',
+      'black':'#020d0f',
       'white':'#fff',
       'header-logo': '#b46e3c',
       'icon':'aliceblue',
       "light-green":'#59ce596e',
+      "darkred": "#993f34",
     },
     fontFamily: {
       sans: ['Graphik', 'sans-serif'],

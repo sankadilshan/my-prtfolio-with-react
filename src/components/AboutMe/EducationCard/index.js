@@ -10,7 +10,7 @@ const EducationCard = ({
   iconPaths,
 }) => {
   return (
-    <div className="shadow-2xl rounded-md-3 mb-5 mt-5 p-4 w-4/5 m-auto hover:w-5/6 hover:text-yellow">
+    <div className="shadow-2xl rounded-md-3 mb-5 mt-5 p-4 w-4/5 m-auto hover:w-5/6 hover:text-yellow border border-white border-r-4 rounded-md">
       <div className="grid grid-rows-2 grid-flow-col">
         <div className="row-span-2 my-auto">
           <Icon
