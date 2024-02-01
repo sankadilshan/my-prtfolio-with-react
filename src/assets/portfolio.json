@@ -62,40 +62,85 @@
       "skill": "Java",
       "years": "3+",
       "order": "1",
-      "companies": ["Virtusa Sri Lanka", "Intervest pvt ltd", "SyscoLabs Sri Lanka"]
+      "companies": [
+        "Virtusa Sri Lanka",
+        "Intervest pvt ltd",
+        "SyscoLabs Sri Lanka"
+      ]
     },
     {
       "skill": "JavaScript",
       "years": "3+",
       "order": "3",
-      "companies": ["Virtusa Sri Lanka", "Intervest pvt ltd", "SyscoLabs Sri Lanka"]
+      "companies": [
+        "Virtusa Sri Lanka",
+        "Intervest pvt ltd",
+        "SyscoLabs Sri Lanka"
+      ]
     },
     {
       "skill": "Spring/ Spring Boot",
       "years": "3",
       "order": "2",
-      "companies": ["Virtusa Sri Lanka", "Intervest pvt ltd", "SyscoLabs Sri Lanka"]
+      "companies": [
+        "Virtusa Sri Lanka",
+        "Intervest pvt ltd",
+        "SyscoLabs Sri Lanka"
+      ]
     },
     {
       "skill": "ReactJs",
       "years": "1+",
       "order": "4",
-      "companies": ["Virtusa Sri Lanka", "Intervest pvt ltd", "SyscoLabs Sri Lanka"]
+      "companies": [
+        "Virtusa Sri Lanka",
+        "Intervest pvt ltd",
+        "SyscoLabs Sri Lanka"
+      ]
     },
     {
       "skill": "GraphQL",
       "years": "1+",
       "order": "5",
-      "companies": ["Virtusa Sri Lanka", "Intervest pvt ltd", "SyscoLabs Sri Lanka"]
+      "companies": [
+        "Virtusa Sri Lanka",
+        "Intervest pvt ltd",
+        "SyscoLabs Sri Lanka"
+      ]
     },
     {
       "skill": "NodeJs",
       "years": "1+",
       "order": "6",
-      "companies": ["Virtusa Sri Lanka", "Intervest pvt ltd", "SyscoLabs Sri Lanka"]
+      "companies": [
+        "Virtusa Sri Lanka",
+        "Intervest pvt ltd",
+        "SyscoLabs Sri Lanka"
+      ]
     }
   ],
-  "otherTechnicalSkills" : ["Docker", "Enonic", "HTML 5", "CSS", "SCSS","JQuery"],
+  "otherTechnicalSkills1": [
+    "HTML5",
+    "CSS",
+    "JQuery",
+    "Enonic",
+    "Redux",
+    "MySql",
+    "MongoDB",
+    "OracleDB",
+    "Git",
+    "Github",
+    "Gitlab",
+    "Docker",
+    "DataDog",
+    "AWS"
+  ],
+  "otherTechnicalSkills2": [
+    "MicroService",
+    "REST API",
+    "Unit Testing",
+    "Linux"
+  ],
   "educationList": [
     {
       "header": "Honors Degree of Bachelor of Science in Information Technology",
@@ -118,13 +163,22 @@
       ]
     }
   ],
+  "softSkills": [
+    "Good Communication",
+    "Team player",
+    "LeaderShip",
+    "Inter Personal",
+    "Critical Thinking",
+    "Probledm solving",
+    "Quick Learner"
+  ],
   "experienceCompanies": [
     {
       "id": 1,
-      "company":"Virtusa Pvt Ltd",
-      "country":"Sri Lanka",
-      "yearRange":"2019 - 2020",
-      "position":"Intern Technology",
+      "company": "Virtusa Pvt Ltd",
+      "country": "Sri Lanka",
+      "yearRange": "2019 - 2020",
+      "position": "Intern Technology",
       "experience": "8",
       "isYears": false,
       "paths": [
@@ -133,10 +187,10 @@
     },
     {
       "id": 2,
-      "company":"Intervest Software Technologies Pvt Ltd",
-      "country":"Sri Lanka",
-      "yearRange":"2021/04 - 2021/12",
-      "position":"Associate Software Engineer",
+      "company": "Intervest Software Technologies Pvt Ltd",
+      "country": "Sri Lanka",
+      "yearRange": "2021/04 - 2021/12",
+      "position": "Associate Software Engineer",
       "experience": "6",
       "isYears": false,
       "paths": [
@@ -145,10 +199,10 @@
     },
     {
       "id": 3,
-      "company":"Intervest Software Technologies Pvt Ltd",
-      "country":"Sri Lanka",
-      "yearRange":"2022 - 2023/04",
-      "position":"Software Engineer",
+      "company": "Intervest Software Technologies Pvt Ltd",
+      "country": "Sri Lanka",
+      "yearRange": "2022 - 2023/04",
+      "position": "Software Engineer",
       "experience": "1.5+",
       "isYears": true,
       "paths": [
@@ -157,10 +211,10 @@
     },
     {
       "id": 4,
-      "company":"Sysco Labs",
-      "country":"Sri Lanka",
-      "yearRange":"2023/04 - current",
-      "position":"Software Engineer",
+      "company": "Sysco Labs",
+      "country": "Sri Lanka",
+      "yearRange": "2023/04 - current",
+      "position": "Software Engineer",
       "experience": "1+",
       "isYears": true,
       "paths": [
