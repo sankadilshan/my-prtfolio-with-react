@@ -12,6 +12,9 @@ import githubLogo from "../assets/images/svgs/github.svg";
 import gitlabLogo from "../assets/images/svgs/gitlab.svg";
 import awsLogo from "../assets/images/svgs/aws.svg";
 import datadogLogo from "../assets/images/svgs/datadog.svg";
+import springMvcLogo from "../assets/images/svgs/springmvc.svg";
+import thymeleafLogo from "../assets/images/svgs/thymleaf.png";
+import angularLogo from "../assets/images/svgs/angular.svg";
 
 import javaLogo from "../assets/images/svgs/java-vertical.svg";
 import javascriptlogo from "../assets/images/svgs/javascript-vertical.svg";
@@ -19,6 +22,10 @@ import reactjsLogo from "../assets/images/svgs/reactjs-icon.svg";
 import graphQlLogo from "../assets/images/svgs/graphql-icon.svg";
 import nodeJsLogo from "../assets/images/svgs/nodejs-icon.svg";
 import springLogo from "../assets/images/svgs/spring.svg";
+
+import onlineWorkerImg from "../assets/images/online_worker/logo.PNG";
+
+import pendingLogo from "../assets/images/svgs/pending.svg";
 
 const getLogo = (skill) => {
   switch (skill) {
@@ -29,7 +36,10 @@ const getLogo = (skill) => {
     case "ReactJs":
       return reactjsLogo;
     case "Spring/ Spring Boot":
+    case "Spring Boot":
       return springLogo;
+    case "Spring MVC":
+      return springMvcLogo;
     case "GraphQL":
       return graphQlLogo;
     case "NodeJs":
@@ -60,6 +70,14 @@ const getLogo = (skill) => {
       return awsLogo;
     case "DataDog":
       return datadogLogo;
+    case "o_worker":
+      return onlineWorkerImg;
+    case "pending":
+      return pendingLogo;
+    case "Thymeleaf":
+      return thymeleafLogo;
+    case "Angular":
+      return angularLogo;
     default:
       return "";
   }

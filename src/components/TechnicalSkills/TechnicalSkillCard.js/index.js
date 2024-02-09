@@ -1,5 +1,5 @@
 import "./styles.scss";
-import getLogo from "../../../util/LogoUtil" 
+import getLogo from "../../../util/LogoUtil";
 
 function TechnicalSkillCard({ skill, years, companies }) {
   const bgcolor = "light-green";

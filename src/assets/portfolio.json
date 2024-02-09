@@ -222,6 +222,56 @@
       ]
     }
   ],
+  "projects": [
+    {
+      "name": "Online Worker",
+      "yearRange": "2021 - 2022",
+      "description": "Web base application to find a worker for people's day today works.People can make a post by mentioning their requirement and workers canmake their profile with skills and find suitable job. Aim of this application is make easy to find a worker for busy people.",
+      "techStack": ["Java", "Spring Boot", "Angular", "HTML5", "CSS", "MySql", "REST API"],
+      "githubLink": "https://github.com/sankadilshan/onlineworkers-client",
+      "picIdentifier": "o_worker"
+    },
+    {
+      "name": "Assignment Solver",
+      "yearRange": "2021 - 2024",
+      "description": "This is a web application. It helps to users finds a person to do their assignments. Aim of this project is make easy to find person to do assignments for undergraduate, students. (individual project)",
+      "techStack": ["Spring MVC", "JavaScript", "Thymeleaf","MySql"],
+      "githubLink": "",
+      "picIdentifier":"o_worker"
+    },
+    {
+      "name": "Corona Tracking Web application",
+      "yearRange": "2021 - 2024",
+      "description": "This application facilitates to display current total covid-19 cases and analyze the current records all around the world. (individual project)",
+      "techStack": ["Spring MVC", "Thymeleaf", "HTML5","CSS", "JavaScript", "JQuery"],
+      "githubLink": "",
+      "picIdentifier":"pending"
+    },
+    {
+      "name": "Online Worker",
+      "yearRange": "2021 - 2024",
+      "description": "Web base application to find a worker for people's day today works.People can make a post by mentioning their requirement and workers canmake their profile with skills and find suitable job. Aim of this application is make easy to find a worker for busy people.",
+      "techStack": [],
+      "githubLink": "",
+      "picIdentifier":"o_worker"
+    },
+    {
+      "name": "Online Worker",
+      "yearRange": "2021 - 2024",
+      "description": "Web base application to find a worker for people's day today works.People can make a post by mentioning their requirement and workers canmake their profile with skills and find suitable job. Aim of this application is make easy to find a worker for busy people.",
+      "techStack": [],
+      "githubLink": "",
+      "picIdentifier":"pending"
+    },
+    {
+      "name": "Online Worker",
+      "yearRange": "2021 - 2024",
+      "description": "Web base application to find a worker for people's day today works.People can make a post by mentioning their requirement and workers canmake their profile with skills and find suitable job. Aim of this application is make easy to find a worker for busy people.",
+      "techStack": [],
+      "githubLink": "",
+      "picIdentifier":"o_worker"
+    }
+  ],
   "features": {
     "isDatetimeEnabled": true,
     "isExperinceEnabled": true,

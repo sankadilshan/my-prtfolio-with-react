@@ -1,5 +1,6 @@
 import AboutMe from "../AboutMe";
 import Experience from "../Experience";
+import Portfolio from "../Portfolio";
 import TechnicalSkills from "../TechnicalSkills";
 
 function Layout() {
@@ -9,6 +10,7 @@ function Layout() {
         <AboutMe />
         <Experience />
         <TechnicalSkills />
+        <Portfolio />
       </div>
     </div>
   );
